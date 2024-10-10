@@ -1,0 +1,12 @@
+.project {
+  background-color: var(--blue);
+  padding: 10px;
+}
+
+.project h3, .text {
+  color: white;
+}
+
+.project:hover {
+  background-color: var(--orange);
+}

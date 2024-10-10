@@ -1,0 +1,19 @@
+.nav {
+  background-color: var(--blue);
+}
+
+.nav a {
+  color: white;
+  font-size: 2rem; 
+}
+
+h1:hover, 
+.nav-link:hover {
+  color: white;
+}
+
+a:focus, 
+.nav-link:focus {
+  font-weight: 700;
+  color: white;
+}
